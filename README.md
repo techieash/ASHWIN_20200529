@@ -2,9 +2,13 @@
 Http web Crawler 
 # Getting Started
  Application uses sqlLite db to store the crawled data .The database will be created on the fly
-and stored in sqlite3 DB under
+and stored in sqlite3 DB under .recipe.db
+how to RUN
 ```
-.recipe.db
+1.go build main.go
+2.main.go
+
+
 
 ```
 # How it is done 
