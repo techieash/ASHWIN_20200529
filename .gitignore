@@ -1,0 +1,6 @@
+.idea/*
+.DS_Store
+*.iml
+.recipe.db
+.*/recipe.json
+.*/recipe_test.db
